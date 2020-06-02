@@ -1,2 +1,2 @@
-![Preview Image](sr-slideshow.jpg)
+![Preview Image](ttt-slideshow.jpg)
  
