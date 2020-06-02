@@ -1,2 +1,2 @@
-# Teeter Totter Trouble
+![Preview Image](sr-slideshow.jpg)
  
